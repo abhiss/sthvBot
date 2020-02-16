@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "discordLogin.js",
+  "dependencies": {
+    "@types/node": "^13.7.1",
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devstart": "tsc && node ./out/discordLogin.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
